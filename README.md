@@ -1,2 +1,2 @@
 # Credit_EDA_Case_Study
- Credit EDA Case Study
+ Conducted a comprehensive case study to identify predictive patterns indicating clients' difficulty in meeting loan instalments. Implemented strategies such as loan denial, reduced loan amounts, and higher interest rates for risky applicants. Analyzed key driver variables influencing loan defaults through Exploratory Data Analysis (EDA), facilitating improved portfolio management and risk assessment.
